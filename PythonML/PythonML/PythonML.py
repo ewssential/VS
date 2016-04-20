@@ -68,7 +68,7 @@ except Exception as e:
 ####################################
 takePicture.pri("hallo")
 
-print(data[0][0]["gender"])
+#print(data[0][0]["gender"])
 
 # String to Manipulate: [{"faceRectangle":{"top":104,"left":73,"width":156,"height":156},"faceAttributes":{"gender":"male","age":44.0}}]
 
